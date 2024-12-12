@@ -1,0 +1,4 @@
+1- Se necesita tener la Librería PyGame instalda para poder correr el juego.
+
+2- Si quieres descarar el .rar del juego con el ejecutable puedes hacerlo pero lo detecta como virus, es 100 seguro esto ocurre por que la mayoría de archivos de PyInstaller windows los toma como virus, no te preocupes es 100% seguro, puedes hacerlo desactivando un momento tu antivirus o ejecutar el código desde tu IDE preferido. 
+
